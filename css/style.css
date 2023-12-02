@@ -228,10 +228,7 @@ footer{
     
 }
 .futer{
-height:150px;
 text-align: center;
-
-width:96%;
 padding: 20px 0px;
 }
 .futer a{
@@ -266,7 +263,7 @@ text-align: center;
 }
 
 #slikameni, #slikacontact{
-    background-image: url("images/dryga.jpg");
+    background-image: url("../images/dryga.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -279,7 +276,7 @@ text-align: center;
     background-attachment: fixed;
 }
 #menucontainer{display: flex; justify-content: center; align-items: center;
-flex-direction: column; background-image: url("images/slikacontact.jpg"); background-attachment: fixed;background-position: center ; border-radius: 10px; background-size: 100% 100%;;}
+flex-direction: column; background-image: url("../images/slikacontact.jpg"); background-attachment: fixed;background-position: center ; border-radius: 10px; background-size: 100% 100%;;}
 .menu{
     display:flex;
     flex-direction: row;
